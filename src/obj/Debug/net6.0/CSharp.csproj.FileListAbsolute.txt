@@ -1,0 +1,15 @@
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/bin/Debug/net6.0/CSharp
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/bin/Debug/net6.0/CSharp.deps.json
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/bin/Debug/net6.0/CSharp.runtimeconfig.json
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/bin/Debug/net6.0/CSharp.dll
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/bin/Debug/net6.0/CSharp.pdb
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.csproj.AssemblyReference.cache
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.AssemblyInfoInputs.cache
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.AssemblyInfo.cs
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.dll
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/refint/CSharp.dll
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.pdb
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/CSharp.genruntimeconfig.cache
+/Users/ronnoc536/Desktop/BigFolder/Code/D-D-2ed-Random-Character-Generator/src/obj/Debug/net6.0/ref/CSharp.dll
